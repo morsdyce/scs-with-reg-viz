@@ -5,7 +5,7 @@ export const Button = ({ children, primary }) => (
     style={{
       display: 'inline-block',
       padding: '0 3em',
-      height: 80,
+      height: 50,
       borderRadius: 50,
       borderStyle: 'solid',
       borderWidth: 1,
